@@ -1,6 +1,6 @@
 # Connect Four Game
 
-https://sushmita06github.github.io/ConnectFour-Game/
+## Link: https://sushmita06github.github.io/ConnectFour-Game/
 
 This is a web-based implementation of the classic Connect Four game, created using HTML, CSS, and JavaScript. 
 The game features a 7x6 grid where two players take turns dropping colored discs into a column. 
